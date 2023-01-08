@@ -2,12 +2,19 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Project Title](#landing-page-project)
+* [Table of contents](#table-of-contents)
+* [Project Description](#project-description)
 
-## Instructions
+## Project Description
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+1. This project takes a web page with multple sections and creates items in the navigation bar with the title of each section that will take you smoothly to the desired section if clicked on.
+2. The section in the current view port will be have 2 circles hovering over the section and the section in the navigation bar will be underlined and turns green.
+3. In th footer a *Go to Top* button was added to take you smoothly to the top of the page.
 
-To get started, open `js/app.js` and start building out the app's functionality
+[(Back to top)](#table-of-contents)
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+# Usage
+All you have to do is open the **"index.html"** file in your browser and you can try it yourself.
+
+[(Back to top)](#table-of-contents)
