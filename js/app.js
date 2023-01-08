@@ -40,16 +40,6 @@ function goToTop() {
 }
 
 /**
-* @description Hides navigation bar while not scrolling
-*/
-function hideNavBar(){
-    navBar.style.display = '' 
-    setTimeout(function hide() {
-        navBar.style.display = 'none';
-    }, 5000);
-}
-
-/**
  * End Helper Functions
  * Begin Main Functions
  * 
@@ -86,7 +76,6 @@ function makeActive(){
             secAnchor.classList.remove('menu__active')
         }
     }
-    hideNavBar();
 }
 
 /**
