@@ -82,6 +82,12 @@ section {
     color: #000;
 }
 
+.navbar__menu .menu__active {
+    text-decoration: underline;
+    color: #1c803b;
+    transition: ease 0.3s all;
+}
+
 .navbar__menu .menu__link:hover {
     background: #333;
     color: #fff;
